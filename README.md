@@ -10,7 +10,7 @@ This PDF is a PDF-Form, meaning you can fill in the blanks on your computer and 
 DOWNLOAD 
 ========
 
-To Download click here: https://github.com/jposse/SongWorksheet/blob/master/SongWorksheet.pdf?raw=true
+To download the PDF, click here: https://github.com/jposse/SongWorksheet/blob/master/SongWorksheet.pdf?raw=true
 
 Hope you find this useful!
 
